@@ -7,6 +7,6 @@ short // echoes a short
 EchoShort(short x // number to be echoed
            )
 {
-    return x;
+    return x*2;
 }
 
